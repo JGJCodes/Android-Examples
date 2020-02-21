@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Intentos implicitos</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="geodirect">Localizaciones geográficas</string>
+    <string name="editText1">Ingresar el lugar</string>
+    <string name="button1">Búscar</string>
+
+    <string name="interdirect">Paginas WEB</string>
+    <string name="editText2">Ingresar el url</string>
+
+    <string name="marcar">Marcación de números</string>
+    <string name="editText3">Ingresar el número</string>
+    <string name="button3">Marcar</string>
+
+    <string name="llamar">LLamar a números</string>
+    <string name="editText4">Ingresar el número</string>
+    <string name="button4">Llamar</string>
+
+    <string name="foto">Capturar fotográfias</string>
+    <string name="button5">Capturar</string>
+
+    <string name="contactos">Mostrar contactos</string>
+    <string name="button6">Contactos</string>
+</resources>

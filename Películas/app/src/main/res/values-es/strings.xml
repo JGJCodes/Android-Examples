@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Películas</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="title_activity_sinopsis">Sinopsis</string>
+
+        <string-array name="tituloPelicula">
+            <item>Dragon Ball Z: La Batalla de los Dioses.</item>
+            <item>Dragon Ball Z: La Resurrección de Frezzer</item>
+            <item>Dragon Ball Z: La Resurrección de Cell</item>
+            <item>Dragon Ball Z: Evolución </item>
+            <item>Dragon Ball Z: La Luz de la Esperanza</item>
+            <item>Dragon Ball Z: La Caida de los Hombres</item>
+        </string-array>
+
+        <string-array name="titulos">
+            <item>Película 1</item>
+            <item>Película 2</item>
+            <item>Película 3</item>
+            <item>Película 4</item>
+            <item>Película 5</item>
+            <item>Película 6</item>
+        </string-array>
+
+        <string-array name="sinopsisPelicula">
+            <item>Algunos años después de la batalla con Majin Buu, Bils, el dios de la destrucción, encargado de mantener el equilibrio del universo, se ha despertado de un largo sueño. Al escuchar rumores sobre un saiyajin que ha vencido a Freezer, Bils parte a la búsqueda de Goku. Emocionado por el hecho de que haya aparecido, después de tanto tiempo, un oponente tan poderoso, Goku ignora las advertencias de Kaito y decide enfrentarse a él.</item>
+            <item>Después de que Bills, el Dios de la destrucción, decidiera no destruir la Tierra, se vive una gran época de paz. Hasta que Sorbet y Tagoma, antiguos miembros de élite de la armada de Freezer, llegan a la Tierra con el objetivo de revivir a su líder por medio de las Bolas de Dragón. Su deseo es concedido y ahora Freezer planea su venganza en contra de los Saiyajin. La historia hace que una gran oleada de hombres bajo el mando de Freezer lo acompañe.</item>
+            <item>Después de la derrota de Freezer y su ejercito, la Tierra vivio un periodo de 4 años de paz. Después de que transcurrieran los 4 años, el Androide 22 y el Androide RR2-001 fueron activados por la Neo-Patrulla Roja y programados para conquistar el mundo y aniquilar a los Guerreros Z. Un dia deciden buscar las esferas del dragón para revivir a Cell, pues se enteraron que Cell tenia un gran poder. Al encontrarse a Pilaf y su banda le arrebatan las esferas del dragon, e invocan a Shenlong y le piden que reviva a Cell.</item>
+            <item>Cuenta la épica aventura de un joven que descubre su destino: salvar al mundo de las fuerzas malvadas. Como regalo de su dieciocho cumpleaños el revoltoso Goku recibe una misteriosa Bola de Dragón. Sólo existen seis más y se dice que al unir las siete cualquier deseo puede ser concedido a quien las posee.</item>
+            <item>La historia se basa en el futuro alternativo de Trunks que, trasladado a la historia del manga, transcurriría justo después de la derrota de Freezer y de la llegada de los androides. La historia refleja el futuro destruido por dos máquinas de matar C-17 y C-18. Goku murió de una afección al corazón y Vegeta, Piccolo y demás han muerto a manos de los dos hermanos mecánicos.</item>
+            <item>Esto es Dragon Ball Z en un futuro post apocalíptico, durante 30 minutos el corto mostrará una versión más oscura y dramática al mejor estilo Batman de Chris Nolan de lo que fue “La Saga de Cell“. Todos caerán ante las manos de esta bestia y sólo Trunks podrá enfrentarlo en una batalla épica.</item>
+        </string-array>
+
+
+
+
+</resources>
+
+

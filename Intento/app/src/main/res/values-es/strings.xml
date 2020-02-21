@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intento</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="nombre">Nombre</string>
+    <string name="paterno">Apellido paterno</string>
+    <string name="materno">Apellido materno </string>
+    <string name="boton">Enviar</string>
+    <string name="title_activity_show">Usuario</string>
+</resources>

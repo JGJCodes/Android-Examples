@@ -1,0 +1,22 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:baselineAligned="false"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <fragment 
+        android:name="com.datohosting.fragments.FRAGMENTOS.FragmentUNO"
+        android:id="@+id/fragment_uno"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" />
+    
+    <fragment 
+        android:name="com.datohosting.fragments.FRAGMENTOS.FragmentDOS"
+        android:id="@+id/fragment_dos"
+        android:layout_weight="2"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" />
+    
+</LinearLayout>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Serie de números</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btn5">5</string>
+    <string name="btn6">6</string>
+    <string name="btn7">7</string>
+    <string name="btn8">8</string>
+    <string name="btn9">9</string>
+    <string name="btn10">10</string>
+    <string name="btn11">11</string>
+    <string name="btn12">12</string>
+    <string name="btn13">13</string>
+    <string name="btn14">14</string>
+    <string name="btn15">15</string>
+    <string name="btn16">16</string>
+    <string name="btn17">17</string>
+    <string name="btn18">18</string>
+    <string name="btn19">19</string>
+    <string name="btn20">20</string>
+    <string name="btn21">21</string>
+    <string name="btn22">22</string>
+    <string name="btn23">23</string>
+    <string name="btn24">24</string>
+    <string name="btn25">25</string>
+    <string name="title_activity_winner">Ganador</string>
+    <string name="ganador">"Felicitaciones eres un ganador"</string>
+</resources>

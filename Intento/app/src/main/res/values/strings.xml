@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intento</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nombre">Name</string>
+    <string name="paterno">Last Name</string>
+    <string name="materno">Last Name </string>
+    <string name="boton">Send</string>
+    <string name="title_activity_show">Avatar</string>
+</resources>

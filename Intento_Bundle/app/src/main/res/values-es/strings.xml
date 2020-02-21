@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="nombre">Nombre(s)</string>
+    <string name="paterno">Apellido paterno </string>
+    <string name="materno">Apellido materno</string>
+    <string name="email">Correo electrónico </string>
+    <string name="telefono">Teléfono</string>
+    <string name="button1">Enviar</string>
+</resources>
